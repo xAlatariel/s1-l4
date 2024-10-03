@@ -1,0 +1,36 @@
+body{
+    background-image: url(./img/sfondo.png);
+}
+header{
+    background-color: rgb(135, 199, 199);
+    padding: 1rem;
+    margin-bottom: 10px;
+    background-color: teal;
+    border-bottom: 4px solid rgba(0, 0, 0, 0.613);
+    max-width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+}
+ul li{
+    list-style: none;
+}
+main{
+    background-color: white;
+    max-width: 250px;
+    text-align: center;
+    margin: auto;
+}
+footer{
+    background-color: rgb(135, 199, 199);
+    padding: 1rem;
+    margin-bottom: 10px;
+    background-color: teal;
+    border-bottom: 4px solid rgba(0, 0, 0, 0.613);
+    max-width: 250px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;  
+    margin-bottom: 20px;
+}
